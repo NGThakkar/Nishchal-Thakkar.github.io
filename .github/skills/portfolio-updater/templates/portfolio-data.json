@@ -1,0 +1,173 @@
+{
+  "portfolio": {
+    "personal": {
+      "name": "Nishchal Thakkar",
+      "title": "IT Professional & Full Stack Developer",
+      "bio": "IT Engineer with keen interest in modern technologies and web development",
+      "email": "nishchalthakkar@gmail.com",
+      "phone": "+91 8128459842",
+      "location": "Ahmedabad, Gujarat, India",
+      "social": {
+        "github": "https://github.com/NGThakkar",
+        "linkedin": "https://www.linkedin.com/in/nishchal-thakkar-2545881a2/",
+        "twitter": "https://twitter.com/NishchalThakkar",
+        "instagram": "https://www.instagram.com/nishchalthakkar/",
+        "whatsapp": "https://wa.me/918128459842"
+      }
+    },
+    "projects": [
+      {
+        "id": "project-1",
+        "title": "Example Project 1",
+        "description": "Brief description of the project and what it does",
+        "fullDescription": "More detailed description of the project, including the problem it solves and technical approach",
+        "technologies": ["React", "Node.js", "MongoDB"],
+        "year": 2024,
+        "links": {
+          "github": "https://github.com/nishchal/project1",
+          "demo": "https://project1-demo.com",
+          "portfolio": "URL to project details"
+        },
+        "icon": "fa-code",
+        "status": "completed"
+      },
+      {
+        "id": "project-2",
+        "title": "Example Project 2",
+        "description": "Another project example",
+        "fullDescription": "Full description here",
+        "technologies": ["Python", "TensorFlow", "Flask"],
+        "year": 2024,
+        "links": {
+          "github": "https://github.com/nishchal/project2"
+        },
+        "icon": "fa-chart-bar",
+        "status": "completed"
+      }
+    ],
+    "experience": [
+      {
+        "id": "exp-1",
+        "jobTitle": "Senior Developer",
+        "company": "Company Name",
+        "startDate": "2022-01",
+        "endDate": null,
+        "current": true,
+        "description": "Brief role description",
+        "achievements": [
+          "Major achievement 1",
+          "Major achievement 2",
+          "Major achievement 3"
+        ],
+        "technologies": ["React", "Node.js", "AWS"],
+        "type": "full-time"
+      },
+      {
+        "id": "exp-2",
+        "jobTitle": "Full Stack Developer",
+        "company": "Previous Company",
+        "startDate": "2020-03",
+        "endDate": "2021-12",
+        "current": false,
+        "description": "Role focused on web application development",
+        "achievements": [
+          "Achievement 1",
+          "Achievement 2"
+        ],
+        "technologies": ["React", "Express", "PostgreSQL"],
+        "type": "full-time"
+      }
+    ],
+    "skills": [
+      {
+        "id": "skill-1",
+        "category": "Full Stack Developer",
+        "skills": ["HTML", "CSS", "Java", "Android", ".NET", "Javascript", "MySQL"],
+        "color": "color-1",
+        "icon": "fa-code"
+      },
+      {
+        "id": "skill-2",
+        "category": "Programming",
+        "skills": ["C", "C++", "C#", "Java"],
+        "color": "color-2",
+        "icon": "fa-check"
+      },
+      {
+        "id": "skill-3",
+        "category": "Frameworks",
+        "skills": ["ASP.NET", "CSS Frameworks", "JavaScript"],
+        "color": "color-3",
+        "icon": "fa-check"
+      }
+    ],
+    "education": [
+      {
+        "id": "edu-1",
+        "degree": "Bachelor of Engineering in Information Technology",
+        "institution": "Devang Patel Institute of Advance Technology and Research",
+        "university": "Charusat University of Science and Technology",
+        "location": "Changa, Gujarat, India",
+        "startDate": "2020",
+        "endDate": "2023",
+        "cgpa": "8.37",
+        "fieldOfStudy": "Information Technology"
+      },
+      {
+        "id": "edu-2",
+        "degree": "Diploma in Information Technology",
+        "institution": "R.C. Technical Institute",
+        "university": "Gujarat Technological University",
+        "location": "Ahmedabad, Gujarat, India",
+        "startDate": "2017",
+        "endDate": "2020",
+        "cgpa": "8.68"
+      }
+    ],
+    "certifications": [
+      {
+        "id": "cert-1",
+        "title": "AWS Solution Architect",
+        "issuer": "AWS",
+        "date": "2023",
+        "link": ""
+      },
+      {
+        "id": "cert-2",
+        "title": "CCNA",
+        "issuer": "CISCO",
+        "date": "2022",
+        "link": ""
+      },
+      {
+        "id": "cert-3",
+        "title": "CEH",
+        "issuer": "EC Council",
+        "date": "2023",
+        "link": ""
+      }
+    ],
+    "services": [
+      {
+        "id": "svc-1",
+        "title": "Graphic Design",
+        "icon": "fa fa-layers2"
+      },
+      {
+        "id": "svc-2",
+        "title": "Websites",
+        "icon": "fa fa-globe"
+      },
+      {
+        "id": "svc-3",
+        "title": "Database",
+        "icon": "fa fa-database"
+      },
+      {
+        "id": "svc-4",
+        "title": "Applications",
+        "icon": "fa fa-mobile-phone"
+      }
+    ]
+  }
+}
